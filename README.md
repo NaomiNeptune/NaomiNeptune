@@ -1,4 +1,4 @@
-Hi, I'm Naomi Neptune! I'm new to coding.
+Hi, I'm Naomi! I'm new to coding.
 Currently learning;
 HTML
 CSS
