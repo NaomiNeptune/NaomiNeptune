@@ -1,9 +1,4 @@
-Hi, I'm Naomi! I'm new to coding.
-Currently learning;
-HTML
-CSS
-Python
-I love digital art & baking <3
+I love cats and coding !!
 
 <!---
 NaomiNeptune/NaomiNeptune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
